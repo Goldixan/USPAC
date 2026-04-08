@@ -1,0 +1,15 @@
+LTspice 24.1.6 for Windows
+Circuit: C:\Users\karim\Desktop\Uni\12. Semester\Bachelorarbeit\LTSpice Simulationen\LC Schwingkreis mit Messbrücke\Draft1.net
+Start Time: Fri Aug 29 01:54:21 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.063 seconds.
+
+Files loaded:
+C:\Users\karim\Desktop\Uni\12. Semester\Bachelorarbeit\LTSpice Simulationen\LC Schwingkreis mit Messbrücke\Draft1.net
+C:\Users\karim\AppData\Local\LTspice\lib\cmp\standard.dio
+
